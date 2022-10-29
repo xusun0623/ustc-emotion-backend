@@ -1,1 +1,3 @@
-# ustc-emotion-backend-
+## 情绪管理系统后端  
+
+使用Django构建

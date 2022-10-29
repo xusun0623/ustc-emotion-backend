@@ -1,0 +1,4 @@
+POST http://127.0.0.1:8000/user/login
+Content-Type: application/x-www-form-urlencoded;
+
+username=xs001&password=xs001&type=3
