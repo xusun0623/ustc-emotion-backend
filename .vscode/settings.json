@@ -1,0 +1,17 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "rm-m5eh3l5e2dn38hcc44o.mysql.rds.aliyuncs.com",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "emotion",
+            "database": "emotion",
+            "username": "xusun",
+            "password": "Xusun000"
+        }
+    ]
+}
